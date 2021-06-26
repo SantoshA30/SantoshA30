@@ -16,7 +16,7 @@ If I have to wait in a long queue, I'll start reading an article probably
 I want to improve ways of life of people around me
 🌱THAT'S ME
 
-Currently working as a Technical Lead Developoer in India based MNC.
+Currently working as a Technical Lead Developoer at EPAM Systems.
 I have a master's degree in Software Engineering from GICMS Gunupur, Odisha.
 My side projects include coding ideas into projects, writing tech articles, mentoring code newbies and aspiring developers.
 I like doing outdoor activities and I enjoy spending time with my friends by having a cup of coffee or a nice dinner.
